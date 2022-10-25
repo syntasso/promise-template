@@ -1,0 +1,6 @@
+# Example asset that is used by the pipeline script
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: example
+
