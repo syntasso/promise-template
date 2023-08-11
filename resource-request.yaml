@@ -1,7 +1,7 @@
 ---
 apiVersion: example.promise.syntasso.io/v1
-kind: <TODO-REPLACE> # Should be same as Kind in xaasCRD
+kind: KIND # Should be same as Kind in xaasCRD
 metadata:
-  name: example-resource-request
+  name: example
 spec:
-  foo: bar # TODO-REPLACE
+  prop1: some-value
